@@ -1,2 +1,2 @@
-# Carnegie-Steel
-Andrew Carnegie 
+# carnegie-steel
+andrew carnegie 
